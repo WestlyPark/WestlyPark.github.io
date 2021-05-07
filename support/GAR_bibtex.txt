@@ -1,7 +1,8 @@
-@inproceedings{jtpark2021GAR,
- author = {},
- title = {},
- booktitle = {CVPR},
- month = June,
- year = {2021}
+@misc{piao2021inverting,
+	title={Inverting Generative Adversarial Renderer for Face Reconstruction}, 
+	author={Jingtan Piao and Keqiang Sun and Kwanyee Lin and Hongshneg Li},
+	year={2021},
+	eprint={2105.02431},
+	archivePrefix={arXiv},
+	primaryClass={cs.CV}
 }
